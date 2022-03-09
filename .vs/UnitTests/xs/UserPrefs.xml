@@ -1,18 +1,32 @@
 ﻿<Properties StartupConfiguration="{6801B230-DE50-4971-98BC-4017C1586CAC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTests.Tests/UnitTest1.cs">
     <Files>
       <File FileName="Program.cs" Line="13" Column="1" />
-      <File FileName="Calculator.cs" />
-      <File FileName="SortAlgo.cs" />
-      <File FileName="UnitTests.Tests/UnitTest1.cs" />
+      <File FileName="Calculator.cs" Line="1" Column="1" />
+      <File FileName="SortAlgo.cs" Line="1" Column="1" />
+      <File FileName="UnitTests.Tests/UnitTest1.cs" Line="22" Column="22" />
       <File FileName="PrimeNumbers.cs" />
       <File FileName="UnitTests.Tests/UnitTest2.cs" />
       <File FileName="User.cs" />
       <File FileName="Interfaces/IUserData.cs" />
-      <File FileName="Controllers/PseudoController.cs" />
+      <File FileName="Controllers/PseudoController.cs" Line="1" Column="1" />
       <File FileName="UnitTests.Tests/UnitTestInterface.cs" />
-      <File FileName="UnitTests.csproj" />
+      <File FileName="UnitTests.csproj" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTests" expanded="True">
+            <Node name="UnitTests" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="UnitTests.Tests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
